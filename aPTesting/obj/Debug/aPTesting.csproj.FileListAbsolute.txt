@@ -1,0 +1,7 @@
+c:\users\max\source\repos\aPTesting\aPTesting\bin\Debug\aPTesting.exe.config
+c:\users\max\source\repos\aPTesting\aPTesting\bin\Debug\aPTesting.exe
+c:\users\max\source\repos\aPTesting\aPTesting\bin\Debug\aPTesting.pdb
+c:\users\max\source\repos\aPTesting\aPTesting\obj\Debug\aPTesting.csprojAssemblyReference.cache
+c:\users\max\source\repos\aPTesting\aPTesting\obj\Debug\aPTesting.csproj.CoreCompileInputs.cache
+c:\users\max\source\repos\aPTesting\aPTesting\obj\Debug\aPTesting.exe
+c:\users\max\source\repos\aPTesting\aPTesting\obj\Debug\aPTesting.pdb
